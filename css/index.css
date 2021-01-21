@@ -39,6 +39,7 @@ h4{
 }
 .titulo-operacion,.detalles-lista,footer{
     background-color: rgb(255, 255, 255);
+    box-shadow: 10px,10px,black;
     margin: 2px;
 }
 .titulo-operacion{
